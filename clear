@@ -1,0 +1,59 @@
+[33mcommit bbc70d2ab1178625d28c65daf570cfc759dd7ca0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: artemchernyuk <artemchernyuk67@gmail.com>
+Date:   Tue May 23 20:57:46 2023 +0300
+
+    Add 'empty' directory with .gitkeep file in it
+
+[33mcommit 90c057f1b2d1670bc282ebb5ecd41f19e8507f59[m
+Author: artemchernyuk <artemchernyuk67@gmail.com>
+Date:   Tue May 23 19:12:40 2023 +0300
+
+    Remove tempfile2.txt from staging index
+
+[33mcommit 474a8dc0b199faa71b16b8fd5b5be9b1e73c702d[m
+Author: artemchernyuk <artemchernyuk67@gmail.com>
+Date:   Tue May 23 19:07:45 2023 +0300
+
+    Adding tempfile2.txt to repo before ignoring it
+
+[33mcommit 9055589172119325889584ee63f0caee93a9aabb[m
+Author: artemchernyuk <artemchernyuk67@gmail.com>
+Date:   Tue May 23 18:51:58 2023 +0300
+
+    Add .gitignore file
+
+[33mcommit 3c80f078cdab892860b118ee060d4ea86526ce33[m
+Author: artemchernyuk <artemchernyuk67@gmail.com>
+Date:   Tue May 23 18:30:09 2023 +0300
+
+    Moved telephone to contact link
+
+[33mcommit c877486caf4025ff657cb4115ee1ae1e6fd4d722[m
+Author: artemchernyuk <artemchernyuk67@gmail.com>
+Date:   Tue May 23 16:47:09 2023 +0300
+
+    Changed button text for form.html
+
+[33mcommit 7908206acd0832a6f6553c62364828bf5e21f33a[m
+Author: artemchernyuk <artemchernyuk67@gmail.com>
+Date:   Tue May 23 16:46:28 2023 +0300
+
+    Added email to pages
+
+[33mcommit f9adc686598356e5110d0beb5de06faaab79bfab[m
+Author: artemchernyuk <artemchernyuk67@gmail.com>
+Date:   Tue May 23 16:44:28 2023 +0300
+
+    Add page to site
+
+[33mcommit daa26c290290fd4dd8eeff0b6d69594ed4f5ad58[m
+Author: artemchernyuk <artemchernyuk67@gmail.com>
+Date:   Mon May 22 20:31:31 2023 +0300
+
+    Chaged phone number to 13323112312
+
+[33mcommit 6ccfbec88273909bd9531714c02f3f0a10e52146[m
+Author: artemchernyuk <artemchernyuk67@gmail.com>
+Date:   Mon May 22 20:23:27 2023 +0300
+
+    First commit
